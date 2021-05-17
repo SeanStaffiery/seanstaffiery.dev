@@ -9,4 +9,4 @@ Here you find a collection of code running on my website, from embeds for protoc
 
 <strong>My Resume Website</strong>
 
-<img src="images/website.png">
+<img src="images/website2.png">
